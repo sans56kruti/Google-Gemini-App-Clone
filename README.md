@@ -1,11 +1,18 @@
-# Google-Gemini-App-Clone
- Developed a Google Gemini app clone using React as a fresher, showcasing skills in dynamic UI, responsive design, and state management with React hooks. Integrated APIs for real-time data rendering, creating a user-friendly experience. This project highlights my proficiency in modern web development and front-end technologies.
-As a fresher, I developed a Google Gemini app clone using React to demonstrate my ability to design and build a functional web application inspired by a cutting-edge platform. This project showcases my proficiency in modern front-end technologies, problem-solving skills, and commitment to replicating real-world application features.
+# React + Vite
 
-The app includes key features such as dynamic rendering of data, a responsive user interface, and smooth navigation across pages. Using React's component-based architecture, I ensured modularity and reusability, which made the codebase easier to manage and scale. State management was implemented using React hooks, providing seamless user interactions and real-time updates.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-API integration is a significant aspect of the project, allowing the app to fetch and display real-time data, replicating the functionality of the original platform. The UI/UX design prioritizes user-centric interactions, delivering a clean and intuitive interface optimized for both desktop and mobile devices.
+Currently, two official plugins are available:
 
-This project helped me gain hands-on experience in building responsive layouts, debugging, and implementing best practices in front-end development. I also enhanced my understanding of asynchronous programming, data fetching, and rendering techniques essential for creating modern web applications.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-By developing this Google Gemini app clone, I demonstrated my ability to learn and apply complex concepts, work with industry-relevant tools, and create a high-quality project that aligns with current web development standards. This project reflects my technical skills and enthusiasm for learning and contributing to innovative solutions.
+All about the project =>
+1 we have worked on the UI of the Google Gemini app firstly
+2 for that we have 1st created sidebar UI and then Main UI
+3 Then after that we will integrate the gimini API with our project as follow =>
+1st search for gimini api then click on the 1st link
+then click on get ao
+after that click on Google AI studion and after that in the right corner click on click on GetCode and then select js and copy the code under it
+
+4 then create a folder in src named config in that create a file named gemini.jsx in the file paste the copied code
